@@ -11,6 +11,6 @@ Ensure you have Python 3 installed on your system.
 ### 2. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/rishabh913623/AI-Sales-Assistant-Project>
+cd </Users/rishabh/Documents/GitHub/AI-Sales-Assistant-Project>
 
